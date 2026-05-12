@@ -7,3 +7,8 @@ NodeMCU-ESP32S plus the DS3231 RTC Module
 ### Dependencies
 
 - RTCLib by Adafruit
+
+
+### References
+
+- [Random Nerd Turorials](https://randomnerdtutorials.com/esp32-ds3231-real-time-clock-arduino/)
